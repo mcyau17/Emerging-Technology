@@ -31,8 +31,8 @@ Clone the repository:
 git clone <repo-url>
 cd <repo-folder>
 
-Install dependencies:
+# Install dependencies:
 pip install -r requirements.txt
 
-Run the notebook:
+# Run the notebook:
 jupyter notebook problems.ipynb
